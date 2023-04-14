@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+
+body{
+    background-color: lightpink;
+}
+h1 {
+    color:blueviolet;
+}
+p{
+    font-family:Cedarville Cursive;
+    font-size: 20px;
+}
+
+footer{
+margin-bottom: 30;
+}
+
+#message{
+    background-color: aqua;
+    white-space: normal;
+    text-align: justify;
+}
+ 
